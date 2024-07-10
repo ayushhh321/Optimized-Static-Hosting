@@ -1,4 +1,4 @@
-# Hosting a Static Website on Amazon S3
+# Hosting a Static Website on Amazon S3                      
 
 ## Why Choose S3 Over Other AWS Services?
 
