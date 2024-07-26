@@ -1,5 +1,5 @@
 # Hosting a Static Website on Amazon S3                      
-                
+                                                             
 ## Why Choose S3 Over Other AWS Services?
 
 - **S3 vs. EC2**: S3 is designed specifically for static content hosting, offering scalability, high availability, and durability with minimal management. EC2 is more suited for dynamic applications and requires more maintenance.
