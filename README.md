@@ -7,7 +7,7 @@
 - **S3 vs. Elastic Beanstalk**: Elastic Beanstalk is used for deploying and managing applications within a variety of environments. It’s overkill for static sites, where S3 offers a simpler, more efficient solution.
 - **S3 vs. Lightsail**: Lightsail is similar to EC2 but more user-friendly, with virtual servers and other resources. It's better for simple web applications rather than just static file hosting.
 
-## Steps to Host Your Static Website on S3
+## Steps to Host Your Static Website on S3                                                      
 
 ### 1. Create an S3 Bucket
 
